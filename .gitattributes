@@ -1,0 +1,4 @@
+# Preserve generated answer files byte-for-byte.
+SFT_*_Test.txt -text -whitespace
+# Match the source files used for the recorded Windows runs.
+data/*.jsonl text eol=crlf

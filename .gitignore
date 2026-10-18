@@ -1,0 +1,9 @@
+.venv*/
+__pycache__/
+*.pyc
+models/
+logs/
+.cache/
+*.tmp
+.DS_Store
+run_records/*.partial.json
